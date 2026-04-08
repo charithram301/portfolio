@@ -58,27 +58,7 @@ The portfolio highlights practical implementations of predictive modeling and re
 
 ---
 
-## 🔄 Portfolio Architecture
-
-The portfolio is structured as a lightweight static web application:
-
-- `index.html` → Main entry point  
-- `style.css` → UI styling  
-- `config.js` → Centralized configuration ( skills, links)  
-
-Content is dynamically managed via a configuration layer to improve maintainability and scalability.
-
 ---
-
-## ⚙️ Deployment
-
-The portfolio is deployed using GitHub Pages:
-
-- Static hosting via GitHub Pages  
-- Version-controlled using Git  
-- Publicly accessible via custom GitHub domain  
-
-🌐 Live URL: https://yourusername.github.io  
 
 ---
 
@@ -98,14 +78,11 @@ The portfolio is deployed using GitHub Pages:
 
 ---
 
-## 👤 Author
-**Akhilesh**  
-Aspiring Data Scientist | Machine Learning Engineer  
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+
+- GitHub: https://github.com/charithram301  
+- LinkedIn: https://linkedin.com/in/charithrambhimesettyb12  
 
 ---
 
-## 📜 License
-This project is for educational and portfolio purposes.
+
