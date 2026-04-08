@@ -17,6 +17,8 @@ The portfolio highlights practical implementations of predictive modeling and re
 ## Skills
 Python, SQL, Machine Learning, Neural Networks, NLP, REST API, Streamlit, Flask, AWS EC2
 
+----
+
 ##   Projects
 
 ###  Credit Risk Prediction API - ML Classification
