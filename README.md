@@ -1,8 +1,7 @@
 #   Data Science & Machine Learning 
 
 ##  Summary
-This repository hosts my personal portfolio website, showcasing end-to-end Machine Learning projects, including data preprocessing, model development, evaluation, and cloud deployment.
-The portfolio highlights practical implementations of predictive modeling and real-world problem-solving using structured data.
+This repository hosts my portfolio showcasing end-to-end machine learning workflows, including data preprocessing, model development, evaluation, and deployment.
 
 ---
 
@@ -28,7 +27,7 @@ Python, SQL, Machine Learning, Neural Networks, NLP, REST API, Streamlit, Flask,
 - Designed an end-to-end ML pipeline (data ingestion → prediction)  
 - Deployed model on AWS EC2 via REST API (currently stopped for cost optimization)
 
-  🔗Repository: https://github.com/charithram301/credit--risk  
+  🔗[View Repository](https://github.com/charithram301/credit--risk)  
 
 
 ###  Apple Stock Price Prediction - Time series Forecasting
@@ -39,13 +38,14 @@ Python, SQL, Machine Learning, Neural Networks, NLP, REST API, Streamlit, Flask,
 - Designed an end-to-end ML pipeline (data ingestion → prediction)
 - Deployed using Streamlit including intractive dashboard
 
-  🔗Repository: https://github.com/charithram301/deployment-1 
+  🔗[View Repository](https://github.com/charithram301/deployment-1)
+  🌐[Live Demo](https://deployment-ucltcxdclzsmrcke2krama.streamlit.app/)
 
   
 ---
 ## Contact
-- 🔗GitHub: https://github.com/charithram301  
-- 🔗LinkedIn: https://linkedin.com/in/charithrambhimesettyb12  
+- 🔗 GitHub: [charithram301](https://github.com/charithram301)
+- 🔗 LinkedIn: [View Profile](https://linkedin.com/in/charithrambhimesettyb12) 
 
 
 
