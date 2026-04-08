@@ -1,13 +1,13 @@
-# 🌐 Charith Ram | Data Science & Machine Learning Portfolio
+#   Data Science & Machine Learning 
 
-## 📌 Overview
+##  Summary
 This repository hosts my personal portfolio website, showcasing end-to-end Machine Learning projects, including data preprocessing, model development, evaluation, and cloud deployment.
 
 The portfolio highlights practical implementations of predictive modeling and real-world problem-solving using structured data.
 
 ---
 
-## 🧠 Core Competencies
+##   Core Competencies
 - Machine Learning Model Development  
 - Data Preprocessing & Feature Engineering  
 - Exploratory Data Analysis (EDA)  
@@ -16,73 +16,42 @@ The portfolio highlights practical implementations of predictive modeling and re
 
 ---
 
-## 🚀 Featured Projects
+##   Projects
 
-### 📊 Credit Risk Prediction
+###  Credit Risk Prediction API - ML Classification
 - Developed classification models to predict loan default risk  
 - Implemented Logistic Regression, Random Forest, and XGBoost  
 - Achieved **0.85 accuracy** using ensemble methods  
 - Designed an end-to-end ML pipeline (data ingestion → prediction)  
-- Deployed model on AWS EC2 via REST API (currently stopped for cost optimization)  
+- Deployed model on AWS EC2 via REST API (currently stopped for cost optimization)
 
-🔗 Repository: https://github.com/charithram301/credit--risk  
+ Repository: https://github.com/charithram301/credit--risk  
 
----
 
-### 📈 Stock Price Forecasting
-- Built time series forecasting models using ARIMA and XGBoost  
+###  Apple Stock Price Prediction - Time series Forecasting
+- Built time series forecasting models using ARIMA, SARIMA, Random Forest and XGBoost  
 - Performed trend and seasonality analysis  
-- Reduced RMSE compared to baseline models  
-- Conducted feature engineering for improved prediction accuracy  
+- Achieved **3.025** RMSE using ARIMA 
+- Conducted feature engineering for improved prediction accuracy
+- Deployed using Streamlit including intractive dashboard
 
-🔗 Repository: https://github.com/charithram301/deployment-1  
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Libraries
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- XGBoost  
-
-### Visualization
-- Matplotlib  
-- Seaborn  
-
-### Deployment & Tools
-- AWS EC2  
-- Flask / REST API  
-- Git & GitHub  
+ Repository: https://github.com/charithram301/deployment-1 
 
 ---
-
----
-
----
-
-## 📊 Engineering Practices
-- Modular code structure  
-- Separation of concerns (config vs UI)  
-- Reproducible ML workflows  
-- Clean and maintainable codebase  
-
----
-
-## 🔮 Future Enhancements
-- Integration of CI/CD pipelines (GitHub Actions)  
-- Containerization using Docker  
-- Model monitoring and logging  
-- Interactive dashboards  
-
----
+##  Tech Stack
+- **Programming**: Python
+- **Database**: SQL
+- **Machine Learning**: Supervized models, Sckit-Learn
+- **Neural Networks**: ANN, MLP, Tensarflow, Keras
+- **Data Processing**: Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn  
+- **Deployment**: AWS EC2, Flask API, Streamlit 
+- **Version Control**: Git, GitHub  
 
 
 
 - GitHub: https://github.com/charithram301  
 - LinkedIn: https://linkedin.com/in/charithrambhimesettyb12  
 
----
 
 
