@@ -46,9 +46,9 @@ The portfolio highlights practical implementations of predictive modeling and re
 - **Data Processing**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn  
 - **Deployment**: AWS EC2, Flask API, Streamlit 
-- **Version Control**: Git, GitHub  
-
-
+- **Version Control**: Git, GitHub
+  
+---
 
 - GitHub: https://github.com/charithram301  
 - LinkedIn: https://linkedin.com/in/charithrambhimesettyb12  
