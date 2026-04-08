@@ -35,7 +35,7 @@ The portfolio highlights practical implementations of predictive modeling and re
 - Reduced RMSE compared to baseline models  
 - Conducted feature engineering for improved prediction accuracy  
 
-🔗 Repository: https://github.com/charithram301/deployment1  
+🔗 Repository: https://github.com/charithram301/deployment-1  
 
 ---
 
