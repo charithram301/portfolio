@@ -20,4 +20,4 @@ const config = {
     "REST API",
     "AWS EC2",
     ],
-  theme: "minimal"
+  theme: "jekyll-theme-minimal"
