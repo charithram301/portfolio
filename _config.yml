@@ -1,23 +1,4 @@
-const config = {
-  name: "CHARITH RAM BHIMESETTY",
-  role: "Aspiring Data Scientist | ML Engineer | Data Analyst",
-  email: "charithrambhimesetty@gmail.com",
-
-  social: {
-    github: "https://github.com/charithram301",
-    linkedin: "https://linkedin.com/in/charithrambhimesettyb12",
-  },
-
-  skills: [
-    "Python",
-    "SQL"
-    "Machine Learning",
-    "Data Analysis",
-    "Scikit-learn",
-    "Predictive Modeling",
-    "Neural Networks",
-    "NLP",
-    "REST API",
-    "AWS EC2",
-    ],
-  theme: "jekyll-theme-minimal"
+title: CHARITH RAM BHIMESETTY
+logo: /assets/img/headshot_circle.png
+description: DATA SCIENTIST | MACHINE LEARNING ENGINEER | DATA ANALYST
+theme: "jekyll-theme-minimal"
