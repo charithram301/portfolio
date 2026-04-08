@@ -1,4 +1,4 @@
-# 🌐 Akhilesh | Data Science & Machine Learning Portfolio
+# 🌐 Charith Ram | Data Science & Machine Learning Portfolio
 
 ## 📌 Overview
 This repository hosts my personal portfolio website, showcasing end-to-end Machine Learning projects, including data preprocessing, model development, evaluation, and cloud deployment.
